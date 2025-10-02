@@ -1,5 +1,11 @@
 # Cotacoes_Cambiais
 
+## 👥 Integrantes
+
+  Nome
+  -------------------------
+  Richard Rodrigues Silva
+
 # 📊 Pipeline de Cotações Cambiais com Python + LLM
 
 Projeto final do MBA em Data Engineering.\
